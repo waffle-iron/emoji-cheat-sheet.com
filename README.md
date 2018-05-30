@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Graal46/emoji-cheat-sheet.com.png?columns=all)](https://waffle.io/Graal46/emoji-cheat-sheet.com?utm_source=badge)
 # :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
 
 A one pager listing the different emoji emoticons supported on
